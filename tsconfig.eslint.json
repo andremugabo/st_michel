@@ -1,0 +1,8 @@
+{
+    "extends": "./tsconfig.json",
+    "include": ["src/**/*", "postcss.config.js", "tailwind.config.js", "types/**/*",
+    "tests/**/*","vitest.config.ts",
+    "vite.config.ts","vitest.setup.ts"],
+    "exclude": ["node_modules", "dist"]
+  }
+  

@@ -1,0 +1,6 @@
+# Ignore these directories
+dist
+coverage
+.eslintrc.js
+vitest.setup.ts
+
